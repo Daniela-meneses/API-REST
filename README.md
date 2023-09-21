@@ -13,10 +13,10 @@ Para este ejemplo se utilizara el gestor de bases de datos [SQLite3](https://www
 |No.|Campo|Tipo|Restricciones|Descripcion|
 |--|--|--|--|--|
 |1|id_contactos|int|PRIMARY key|Llave primaria de la tabla|
-|2|nombre|varchar | 100| Tipo texto|
-|3|primer_apelLido varchar 50 Tipo Textol
-|4|segundo_apellido|varchar |Se|Tipo textol
-|5|email|varchar]5el Tipo Texto|
+|2|nombre|varchar|100|Tipo texto|
+|3|primer_apelLido|varchar|50|Tipo Texto|
+|4|segundo_apellido|varchar|50|Tipo texto|
+|5|email|varchar|50|Tipo Texto|
 |6|telefono|varchar|13|Tipo Texto|
 
 ## 3.2 Script
