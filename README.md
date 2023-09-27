@@ -30,3 +30,23 @@ CREATE TABLE contactos (
     telefono VARCHAR(13) NOT NULL
 );
 
+##Metodo POST
+|No|Propiedad|Detalle|
+|1|Description||
+|2|Summary||
+|3|Method||
+|4|Endpoint||
+|5|QueryParam||
+|6|PhatParam||
+|7|Data||
+|8|Versiones||
+|9|Status Code||
+|10|Response-Type||
+|11|Response||
+|12|Curl||
+|13|Status code(error)||
+|14|Response Type(error)||
+|15|Response(error)||
+
+
+
