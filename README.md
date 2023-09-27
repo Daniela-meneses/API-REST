@@ -30,7 +30,7 @@ CREATE TABLE contactos (
     telefono VARCHAR(13) NOT NULL
 );
 
-##Metodo POST
+## 4. Metodo POST
 |No.|Propiedad|Detalle|
 |--|--|--|
 |1|Description||
