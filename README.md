@@ -31,7 +31,8 @@ CREATE TABLE contactos (
 );
 
 ##Metodo POST
-|No|Propiedad|Detalle|
+|No.|Propiedad|Detalle|
+|--|--|--|
 |1|Description||
 |2|Summary||
 |3|Method||
