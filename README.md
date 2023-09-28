@@ -88,7 +88,7 @@ CREATE TABLE contactos (
 |14|Response Type(error)|application/json|
 |15|Response(error)|{"error":"Recurso_no_encontrados"}|
 
-## 4.4 Metodo POST
+## 4.4 Metodo PUT
 |No.|Propiedad|Detalle|
 |--|--|--|
 |1|Description|Endpoint para actualizar la de API|
